@@ -11,3 +11,5 @@
 # Ignore the .terraform directory
 .terraform/
 
+
+.terraform.tfstate.lock.info
